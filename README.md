@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # adWorld
 Advertisement platform using blockchain
 =======
@@ -40,4 +39,3 @@ You must migrate the advertise smart contract each time your restart ganache.
 `$ npm run dev`
 Visit this URL in your browser: http://localhost:3000
 
->>>>>>> master
